@@ -1,19 +1,19 @@
 # Biodata
 
 ## Nama:
-[Isi Nama Anda di Sini]
+[aulia zakiah]
 
 ## Tentang Saya:
-[Tulis beberapa kata tentang diri Anda di sini.]
+[saya adalah siswa sma sains alquran.]
 
 ## Minat:
-- [Minat 1]
-- [Minat 2]
-- [Minat 3]
+-[membaca]
+- [memasak]
+- [menonton drama]
 
 ## Kontak:
-- **Email:** [Alamat Email Anda]
-- **LinkedIn:** [Profil LinkedIn Anda]
+- **Email:** [azakiah721@gmail.com]
+- **LinkedIn:** [Profil LinkedIn Anda]m
 - **Website/Portofolio:** [URL Website Anda]
 
 Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi!
